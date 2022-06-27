@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World 👋</h1>
-<p align="center">Sou incrível!</p>
+<p align="center">𝐊𝐀𝐈𝐂 ;-)</p>
 
 ## 🐱‍👤 Mais sobre mim
 
