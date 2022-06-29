@@ -8,7 +8,7 @@
 ```javascript
 function KAIC() {
  const name = "Kaic Gonçalves"
- let acknowledgements = "DESENVOLVIMENTO DE SISTEMAS"
+ let knowledge = "DESENVOLVIMENTO DE SISTEMAS"
  
  let languages = ["HTML5", "JavaScript", "NodeJS", "MySQL"]
 }
